@@ -1,0 +1,1 @@
+Spring Chat App is a real-time chat application built using Spring Boot, WebSocket (STOMP over SockJS), and a Bootstrap-powered frontend. It allows users to exchange messages instantly without refreshing the page, demonstrating how to build a responsive, event-driven web application using modern backend and frontend technologies.
